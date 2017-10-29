@@ -1,9 +1,7 @@
 Webzash - Easy to use web based double entry accounting software
 
-Copyright (c) 2014 Prashant Shah <pshah.mumbai@gmail.com>
+Copyright (c) 2014 Awais <asargodha@gmail.com>
 
-Website     : http://webzash.org
-Source code : https://github.com/prashants/webzash
 
 Files included :
 
@@ -21,7 +19,7 @@ plugin code. You will need a full CakePHP setup to use Webzash.
 NOTE : The setup available from the webzash.org is the full setup that includes
 everything. You dont have to do anything else. Alternatively, full setup can
 also be downloaded from the releases section of github.com given below :
-https://github.com/prashants/webzash/releases
+https://github.com/awais-vteams/webzash/releases
 
 Following step describes how to setup Webzash with CakePHP from scratch,
 remmember these steps are only needed if you wish to develop or contribute
@@ -63,23 +61,17 @@ Step 7. Install BoostCake plugin
 
 Step 8. Install Webzash plugin
 
- $git clone https://github.com/prashants/webzash.git app/Plugin/Webzash
+ $git clone https://github.com/awais-vteams/webzash.git app/Plugin/Webzash
 
 Thats it ! You are done :)
 
 The full source code for Webzash is in the app/Plugin/Webzash folder.
-
-Note :
-
-Backup copy of the CakePHP and BoostCake repository is available at :
-https://github.com/prashants/cakephp
-https://github.com/prashants/cakephp-plugin-boost_cake
 
 HOW TO USE WEBZASH
 ==================
 
 Coming soon...
 
-REPORT BUGS : https://github.com/prashants/webzash/issues
+REPORT BUGS : https://github.com/awais-vteams/webzash/issues
 
-FEATURE REQUEST : https://github.com/prashants/webzash/issues
+FEATURE REQUEST : https://github.com/awais-vteams/webzash/issues
